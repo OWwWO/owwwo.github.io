@@ -32,7 +32,7 @@ body{
     color:#F00;
 }
 .box ul li{
-    width:160px;
+    width:240px;
     height:240px;
     list-style:none;
     position:relative;
@@ -42,7 +42,7 @@ body{
     overflow:hidden;
 }
 .box ul li .deatil{
-    width:160px;
+    width:240px;
     height:240px;
     background:rgba(0,0,0,0.7);
     position:absolute;
